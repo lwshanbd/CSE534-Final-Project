@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	ss "CSE534Project/shadowsocks"
+	ss "CSE534-Shadowsocks-Pro/shadowsocks"
 )
 
 var debug ss.DebugLog

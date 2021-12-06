@@ -20,7 +20,7 @@ import (
 	"syscall"
 	"time"
 
-	ss "CSE534Project/shadowsocks"
+	ss "CSE534-Shadowsocks-Pro/shadowsocks"
 )
 
 const (
