@@ -59,7 +59,18 @@ In **Shadowsock Pro**, we use [ChaCha20-Poly1305](https://pkg.go.dev/golang.org/
 
 ## About Timestamp Filter
 
+![Fig1](readme1.png)
 
+![Fig4](readme4.png)
+
+
+## About  Blooming Filter
+
+![Fig2](readme2.png)
+
+## About Pipe Drain
+
+![Fig3](readme3.png)
 
 ## Command line options
 
@@ -76,6 +87,6 @@ shadowsocks-server -p server_port -k password
 
 ## Reference
 
-Original [Go-Shadowsocks](https://github.com/shadowsocks/shadowsocks-go)s
+Original [Go-Shadowsocks](https://github.com/shadowsocks/shadowsocks-go)
 
 
