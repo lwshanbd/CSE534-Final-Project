@@ -1,11 +1,5 @@
 # CSE534 Final Project -- Shadowsock Pro
 
-Authors: 
-
-Yilun Wu (Yilun.Wu@stonybrook.edu) 
-
-Baodi Shan (Baodi.Shan@stonybrook.edu)
-
 # Install
 
 Prerequisite:
