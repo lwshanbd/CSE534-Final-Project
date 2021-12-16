@@ -1,4 +1,4 @@
-# CSE534 Final Project -- Shadowsock Pro
+# CSE534 Final Project -- SS Pro
 
 # Install
 
